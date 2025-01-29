@@ -5,6 +5,8 @@ This project builds a machine learning model to detect fraudulent credit card tr
 
 ## 📂 Dataset
 🔗 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+## Dataset Downloading
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ## 📊 Workflow:
 1. **Data Preprocessing** – Handling missing values, scaling
